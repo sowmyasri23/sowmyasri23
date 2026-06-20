@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sowmya-sri-lakshmi-jata-871125315" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://jssl.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5A189A?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sowmyasrilakshmi.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-5A189A?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
   <a href="https://leetcode.com/u/sowmyajata/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="mailto:jatasowmyasrilakshmi@gmail.com"><img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
